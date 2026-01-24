@@ -1,5 +1,5 @@
 [project]
-name = "tm-oop-lab10"
+name = "tm-oop-lab11"
 version = "1.0.0"
 description = "Лабораторная работа по ООП"
 requires-python = ">=3.9"
