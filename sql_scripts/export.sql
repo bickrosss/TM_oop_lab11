@@ -6,7 +6,7 @@
 .headers on
 
 -- Экспорт топа игр
-.once ../results/top_games.csv
+.once results/top_games.csv
 SELECT 
     Name, 
     Platform, 
@@ -17,7 +17,7 @@ ORDER BY Global_Sales DESC
 LIMIT 20;
 
 -- Экспорт статистики по жанрам
-.once ../results/genres_stats.csv
+.once results/genres_stats.csv
 SELECT 
     Genre,
     COUNT(*) AS Games_Count,
@@ -27,7 +27,7 @@ GROUP BY Genre
 ORDER BY Total_Sales_M DESC;
 
 -- Экспорт динамики по годам
-.once ../results/sales_by_year.csv
+.once results/sales_by_year.csv
 SELECT 
     Year,
     COUNT(*) AS Releases,
@@ -41,7 +41,7 @@ ORDER BY Year;
 .mode json
 
 -- Экспорт топа игр в JSON
-.once ../results/top_games.json
+.once results/top_games.json
 SELECT 
     Name, 
     Platform, 
@@ -51,7 +51,7 @@ ORDER BY Global_Sales DESC
 LIMIT 10;
 
 -- Экспорт игр Nintendo в JSON
-.once ../results/nintendo_games.json
+.once results/nintendo_games.json
 SELECT 
     Name, 
     Year, 
