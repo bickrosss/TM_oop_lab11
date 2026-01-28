@@ -1,0 +1,37 @@
+[
+  {
+    "Platform": "Wii",
+    "Games_Released": 40,
+    "Total_Sales": 444.46
+  },
+  {
+    "Platform": "X360",
+    "Games_Released": 64,
+    "Total_Sales": 391.59
+  },
+  {
+    "Platform": "PS2",
+    "Games_Released": 82,
+    "Total_Sales": 390.45
+  },
+  {
+    "Platform": "PS3",
+    "Games_Released": 56,
+    "Total_Sales": 333.88
+  },
+  {
+    "Platform": "DS",
+    "Games_Released": 39,
+    "Total_Sales": 312.75
+  },
+  {
+    "Platform": "PS",
+    "Games_Released": 45,
+    "Total_Sales": 221.63
+  },
+  {
+    "Platform": "PS4",
+    "Games_Released": 27,
+    "Total_Sales": 141.09
+  }
+]

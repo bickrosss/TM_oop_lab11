@@ -1,0 +1,164 @@
+[
+  {
+    "Year": 1990.0,
+    "Releases": 4,
+    "Total_Sales": 31.99,
+    "Avg_Sales": 7.9975
+  },
+  {
+    "Year": 1991.0,
+    "Releases": 2,
+    "Total_Sales": 8.95,
+    "Avg_Sales": 4.475
+  },
+  {
+    "Year": 1992.0,
+    "Releases": 7,
+    "Total_Sales": 45.33,
+    "Avg_Sales": 6.475714285714285
+  },
+  {
+    "Year": 1993.0,
+    "Releases": 2,
+    "Total_Sales": 13.540000000000001,
+    "Avg_Sales": 6.7700000000000005
+  },
+  {
+    "Year": 1994.0,
+    "Releases": 6,
+    "Total_Sales": 28.5,
+    "Avg_Sales": 4.75
+  },
+  {
+    "Year": 1995.0,
+    "Releases": 8,
+    "Total_Sales": 29.98,
+    "Avg_Sales": 3.7475
+  },
+  {
+    "Year": 1996.0,
+    "Releases": 12,
+    "Total_Sales": 94.76,
+    "Avg_Sales": 7.896666666666667
+  },
+  {
+    "Year": 1997.0,
+    "Releases": 11,
+    "Total_Sales": 65.87,
+    "Avg_Sales": 5.988181818181818
+  },
+  {
+    "Year": 1998.0,
+    "Releases": 13,
+    "Total_Sales": 73.97,
+    "Avg_Sales": 5.6899999999999995
+  },
+  {
+    "Year": 1999.0,
+    "Releases": 17,
+    "Total_Sales": 105.39,
+    "Avg_Sales": 6.199411764705882
+  },
+  {
+    "Year": 2000.0,
+    "Releases": 14,
+    "Total_Sales": 56.5,
+    "Avg_Sales": 4.035714285714286
+  },
+  {
+    "Year": 2001.0,
+    "Releases": 24,
+    "Total_Sales": 125.81,
+    "Avg_Sales": 5.242083333333333
+  },
+  {
+    "Year": 2002.0,
+    "Releases": 24,
+    "Total_Sales": 118.61,
+    "Avg_Sales": 4.942083333333334
+  },
+  {
+    "Year": 2003.0,
+    "Releases": 14,
+    "Total_Sales": 61.1,
+    "Avg_Sales": 4.364285714285715
+  },
+  {
+    "Year": 2004.0,
+    "Releases": 16,
+    "Total_Sales": 112.9,
+    "Avg_Sales": 7.05625
+  },
+  {
+    "Year": 2005.0,
+    "Releases": 22,
+    "Total_Sales": 168.35,
+    "Avg_Sales": 7.652272727272727
+  },
+  {
+    "Year": 2006.0,
+    "Releases": 22,
+    "Total_Sales": 241.66,
+    "Avg_Sales": 10.984545454545454
+  },
+  {
+    "Year": 2007.0,
+    "Releases": 39,
+    "Total_Sales": 217.42,
+    "Avg_Sales": 5.574871794871795
+  },
+  {
+    "Year": 2008.0,
+    "Releases": 31,
+    "Total_Sales": 187.45,
+    "Avg_Sales": 6.046774193548386
+  },
+  {
+    "Year": 2009.0,
+    "Releases": 33,
+    "Total_Sales": 242.44,
+    "Avg_Sales": 7.346666666666667
+  },
+  {
+    "Year": 2010.0,
+    "Releases": 31,
+    "Total_Sales": 209.67,
+    "Avg_Sales": 6.763548387096773
+  },
+  {
+    "Year": 2011.0,
+    "Releases": 26,
+    "Total_Sales": 168.16,
+    "Avg_Sales": 6.467692307692308
+  },
+  {
+    "Year": 2012.0,
+    "Releases": 22,
+    "Total_Sales": 136.71,
+    "Avg_Sales": 6.21409090909091
+  },
+  {
+    "Year": 2013.0,
+    "Releases": 23,
+    "Total_Sales": 150.63,
+    "Avg_Sales": 6.549130434782609
+  },
+  {
+    "Year": 2014.0,
+    "Releases": 28,
+    "Total_Sales": 141.42,
+    "Avg_Sales": 5.050714285714285
+  },
+  {
+    "Year": 2015.0,
+    "Releases": 21,
+    "Total_Sales": 102.44,
+    "Avg_Sales": 4.878095238095238
+  },
+  {
+    "Year": 2016.0,
+    "Releases": 3,
+    "Total_Sales": 12.58,
+    "Avg_Sales": 4.193333333333333
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "Name": "Splatoon",
+    "Year": 2015.0,
+    "Platform": "WiiU",
+    "Global_Sales": 4.57
+  },
+  {
+    "Name": "Super Mario Maker",
+    "Year": 2015.0,
+    "Platform": "WiiU",
+    "Global_Sales": 3.18
+  },
+  {
+    "Name": "Animal Crossing: Happy Home Designer",
+    "Year": 2015.0,
+    "Platform": "3DS",
+    "Global_Sales": 2.98
+  },
+  {
+    "Name": "Pokemon Omega Ruby/Pokemon Alpha Sapphire",
+    "Year": 2014.0,
+    "Platform": "3DS",
+    "Global_Sales": 11.33
+  },
+  {
+    "Name": "Super Smash Bros. for Wii U and 3DS",
+    "Year": 2014.0,
+    "Platform": "3DS",
+    "Global_Sales": 7.45
+  },
+  {
+    "Name": "Mario Kart 8",
+    "Year": 2014.0,
+    "Platform": "WiiU",
+    "Global_Sales": 6.96
+  },
+  {
+    "Name": "Super Smash Bros. for Wii U and 3DS",
+    "Year": 2014.0,
+    "Platform": "WiiU",
+    "Global_Sales": 5.02
+  },
+  {
+    "Name": "Monster Hunter 4 Ultimate",
+    "Year": 2014.0,
+    "Platform": "3DS",
+    "Global_Sales": 3.89
+  },
+  {
+    "Name": "Yokai Watch 2 Ganso/Honke",
+    "Year": 2014.0,
+    "Platform": "3DS",
+    "Global_Sales": 3.22
+  },
+  {
+    "Name": "Pokemon X/Pokemon Y",
+    "Year": 2013.0,
+    "Platform": "3DS",
+    "Global_Sales": 14.35
+  },
+  {
+    "Name": "Tomodachi Life",
+    "Year": 2013.0,
+    "Platform": "3DS",
+    "Global_Sales": 5.15
+  },
+  {
+    "Name": "Luigi's Mansion: Dark Moon",
+    "Year": 2013.0,
+    "Platform": "3DS",
+    "Global_Sales": 4.58
+  },
+  {
+    "Name": "Super Mario 3D World",
+    "Year": 2013.0,
+    "Platform": "WiiU",
+    "Global_Sales": 4.25
+  },
+  {
+    "Name": "The Legend of Zelda: A Link Between Worlds",
+    "Year": 2013.0,
+    "Platform": "3DS",
+    "Global_Sales": 3.07
+  },
+  {
+    "Name": "New Super Mario Bros. 2",
+    "Year": 2012.0,
+    "Platform": "3DS",
+    "Global_Sales": 9.82
+  },
+  {
+    "Name": "Animal Crossing: New Leaf",
+    "Year": 2012.0,
+    "Platform": "3DS",
+    "Global_Sales": 9.09
+  },
+  {
+    "Name": "Pokemon Black 2/Pokemon White 2",
+    "Year": 2012.0,
+    "Platform": "DS",
+    "Global_Sales": 8.33
+  },
+  {
+    "Name": "New Super Mario Bros. U",
+    "Year": 2012.0,
+    "Platform": "WiiU",
+    "Global_Sales": 5.19
+  },
+  {
+    "Name": "Nintendo Land",
+    "Year": 2012.0,
+    "Platform": "WiiU",
+    "Global_Sales": 4.44
+  },
+  {
+    "Name": "Mario Party 9",
+    "Year": 2012.0,
+    "Platform": "Wii",
+    "Global_Sales": 3.32
+  },
+  {
+    "Name": "Mario Kart 7",
+    "Year": 2011.0,
+    "Platform": "3DS",
+    "Global_Sales": 12.21
+  },
+  {
+    "Name": "Super Mario 3D Land",
+    "Year": 2011.0,
+    "Platform": "3DS",
+    "Global_Sales": 10.79
+  },
+  {
+    "Name": "The Legend of Zelda: Ocarina of Time",
+    "Year": 2011.0,
+    "Platform": "3DS",
+    "Global_Sales": 4.21
+  },
+  {
+    "Name": "The Legend of Zelda: Skyward Sword",
+    "Year": 2011.0,
+    "Platform": "Wii",
+    "Global_Sales": 4.1
+  },
+  {
+    "Name": "Nintendogs + cats",
+    "Year": 2011.0,
+    "Platform": "3DS",
+    "Global_Sales": 3.81
+  },
+  {
+    "Name": "Pokemon Black/Pokemon White",
+    "Year": 2010.0,
+    "Platform": "DS",
+    "Global_Sales": 15.32
+  },
+  {
+    "Name": "Wii Party",
+    "Year": 2010.0,
+    "Platform": "Wii",
+    "Global_Sales": 8.49
+  },
+  {
+    "Name": "Super Mario Galaxy 2",
+    "Year": 2010.0,
+    "Platform": "Wii",
+    "Global_Sales": 7.69
+  },
+  {
+    "Name": "Donkey Kong Country Returns",
+    "Year": 2010.0,
+    "Platform": "Wii",
+    "Global_Sales": 6.59
+  }
+]

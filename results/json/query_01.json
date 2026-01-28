@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "Wii Sports",
+    "Platform": "Wii",
+    "Year": 2006.0,
+    "Global_Sales": 82.74
+  },
+  {
+    "Name": "Super Mario Bros.",
+    "Platform": "NES",
+    "Year": 1985.0,
+    "Global_Sales": 40.24
+  },
+  {
+    "Name": "Mario Kart Wii",
+    "Platform": "Wii",
+    "Year": 2008.0,
+    "Global_Sales": 35.82
+  },
+  {
+    "Name": "Wii Sports Resort",
+    "Platform": "Wii",
+    "Year": 2009.0,
+    "Global_Sales": 33.0
+  },
+  {
+    "Name": "Pokemon Red/Pokemon Blue",
+    "Platform": "GB",
+    "Year": 1996.0,
+    "Global_Sales": 31.37
+  },
+  {
+    "Name": "Tetris",
+    "Platform": "GB",
+    "Year": 1989.0,
+    "Global_Sales": 30.26
+  },
+  {
+    "Name": "New Super Mario Bros.",
+    "Platform": "DS",
+    "Year": 2006.0,
+    "Global_Sales": 30.01
+  },
+  {
+    "Name": "Wii Play",
+    "Platform": "Wii",
+    "Year": 2006.0,
+    "Global_Sales": 29.02
+  },
+  {
+    "Name": "New Super Mario Bros. Wii",
+    "Platform": "Wii",
+    "Year": 2009.0,
+    "Global_Sales": 28.62
+  },
+  {
+    "Name": "Duck Hunt",
+    "Platform": "NES",
+    "Year": 1984.0,
+    "Global_Sales": 28.31
+  }
+]

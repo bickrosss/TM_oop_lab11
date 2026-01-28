@@ -1,0 +1,74 @@
+[
+  {
+    "Genre": "Action",
+    "Games_Count": 106,
+    "Total_Sales": 563.0,
+    "Avg_Sales": 5.311320754716981
+  },
+  {
+    "Genre": "Shooter",
+    "Games_Count": 76,
+    "Total_Sales": 487.12,
+    "Avg_Sales": 6.409473684210527
+  },
+  {
+    "Genre": "Platform",
+    "Games_Count": 57,
+    "Total_Sales": 433.8,
+    "Avg_Sales": 7.610526315789474
+  },
+  {
+    "Genre": "Role-Playing",
+    "Games_Count": 58,
+    "Total_Sales": 398.94,
+    "Avg_Sales": 6.878275862068966
+  },
+  {
+    "Genre": "Sports",
+    "Games_Count": 59,
+    "Total_Sales": 395.71999999999997,
+    "Avg_Sales": 6.707118644067796
+  },
+  {
+    "Genre": "Misc",
+    "Games_Count": 43,
+    "Total_Sales": 268.49,
+    "Avg_Sales": 6.243953488372093
+  },
+  {
+    "Genre": "Racing",
+    "Games_Count": 34,
+    "Total_Sales": 256.26,
+    "Avg_Sales": 7.537058823529412
+  },
+  {
+    "Genre": "Simulation",
+    "Games_Count": 19,
+    "Total_Sales": 111.65,
+    "Avg_Sales": 5.876315789473685
+  },
+  {
+    "Genre": "Fighting",
+    "Games_Count": 24,
+    "Total_Sales": 111.56,
+    "Avg_Sales": 4.648333333333333
+  },
+  {
+    "Genre": "Puzzle",
+    "Games_Count": 11,
+    "Total_Sales": 87.62,
+    "Avg_Sales": 7.965454545454546
+  },
+  {
+    "Genre": "Adventure",
+    "Games_Count": 8,
+    "Total_Sales": 38.79,
+    "Avg_Sales": 4.84875
+  },
+  {
+    "Genre": "Strategy",
+    "Games_Count": 5,
+    "Total_Sales": 23.2,
+    "Avg_Sales": 4.64
+  }
+]
