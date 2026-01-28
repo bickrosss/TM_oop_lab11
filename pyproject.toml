@@ -5,16 +5,14 @@ description = "Лабораторная работа по ООП"
 requires-python = ">=3.9"
 
 [project.optional-dependencies]
-dev = [
-    "pytest>=7.0.0",
-]
 dependencies = [
     "pandas>=2.0.0",
 ]
-[tool.pytest.ini_options]
-testpaths = ["tests"]
-python_files = "test_*.py"
-python_classes = "Test*"
-python_functions = "test_*"
-addopts = "-v"
-pythonpath = [".","tasks","examples"]
+[dependency-groups]
+dev = [
+    "black>=25.12.0",
+    "flake8>=7.3.0",
+    "isort>=7.0.0",
+    "mypy>=1.19.1",
+    "pre-commit>=4.5.1",
+]
